@@ -1,0 +1,21 @@
+.ball {
+    margin: 50px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    align-items: center;
+    position: relative;
+}
+
+.ball-button {
+    display: inline-block;
+    border-radius: 8px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+}
